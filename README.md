@@ -3,7 +3,7 @@
 This repository contains tools and scripts for performing Cohort Analysis in the e-commerce sector. 
 The main goal of the project is to study customer behavior, assess retention rates, and identify trends in repeat purchases.
 
-![cohort_analysis_dashboard](https://github.com/user-attachments/assets/cohort_dashboard_example.png)
+![cohort_heatmap](https://github.com/user-attachments/assets/ff967953-0ce9-42e9-bd70-853279ffa3bd)
 
 ---
 
@@ -75,15 +75,3 @@ The file should be in CSV format, without duplicates, and with correct values.
 - **Optimizing retention strategies**: Recommendations for improving customer engagement.
 
 This analysis helps businesses increase repeat purchase conversion rates and enhance customer interaction.
-
----
-
-### 🚀 How to Use?
-
-1. Prepare a CSV file with order data.
-2. Run `cohort_analysis_ecommerce.py` to process the data.
-3. Review the visualization and gain insights for marketing strategies.
-
----
-
-**🔍 Ready to analyze?** Start now! 📊
